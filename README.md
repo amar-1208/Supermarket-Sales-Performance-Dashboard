@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project transforms raw supermarket transactional data into an interactive, executive-ready Excel dashboard. The objective of this analysis is to extract actionable business intelligence regarding revenue trends, customer demographics, product line profitability, and regional branch performance, enabling data-driven retail decisions.
 
+## 📊 Dataset Link
+https://www.kaggle.com/datasets/markmedhat/supermarket-sales
+
 ## 💡 Key Business Insights
 
 Through interactive data modeling and visualization, several key strategic trends were identified:
